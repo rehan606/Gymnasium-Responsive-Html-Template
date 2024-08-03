@@ -11,8 +11,7 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-
-<img src="https://ibb.co/mJD6H9g" alt="Random Image" width="400px">
+<img src="https://i.ibb.co/hs7DKBw/screencapture-file-D-REHAN-MY-WORK-COMPLETE-WEBSITE-Gymnasium-PSD-Template-index-html-2024-08-03-10.png" alt="screencapture-file-D-REHAN-MY-WORK-COMPLETE-WEBSITE-Gymnasium-PSD-Template-index-html-2024-08-03-10" border="0" width="400px">
 </p>
  
 <h2 id="technologies">💻 Technologies</h2>
